@@ -1,0 +1,277 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background: #1C1C1C;
+    width: 1920px;
+    height: 3500px;
+    font-family: 'Roboto', sans-serif;
+}
+.left_container{
+    width: 79.5%;
+    height: 3500px;
+    float: left;
+}
+.right_container{
+    width: 20%;
+    height: 3500px;
+    float: right;
+}
+.header{
+    width: 90%;
+    margin: 0 auto;
+}
+.left_header{
+    width: 50%;
+    height: 70px;
+    float: left;
+}
+.right_header{
+    width: 49.5%;
+    height: 70px;
+    float: right;
+    text-align: right;
+}
+.logo{
+    color: white;
+    font-size: 37px;
+    margin-top: 10px;
+}
+.colorheading{
+    color: white;
+    font-size: 37px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.colordiv{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 100px;
+    height: 3400px;
+}
+.colorselector_h1{
+    color: white;
+    font-size: 50px;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.color_div_section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.color_box{
+    width: 170px;
+    height: 250px;
+    border-radius: 10px;
+    /* background: #FF6263; */
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: WHITE;
+    font-size: 20px;
+    transition: 1s;
+}
+.color_box:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+#a{
+    background: #FF6263;
+}
+
+#b{
+    background: #DE4839;
+}
+#c{
+    background: #BF3325;
+}
+#d{
+    background: #E21717;
+}
+#e{
+    background: #BF3312;
+}
+#f{
+    background: #D82E2F;
+}
+#g{
+    background: #EB4D4B;
+}
+#h{
+    background: #EF5354;
+}
+#i{
+    background: #B4161B;
+}
+#j{
+    background: #E6425E;
+}
+#k{
+    background: #E83A59;
+}
+#l{
+    background: #B9345A;
+}
+#m{
+    background: #1B98F5;
+}
+#n{
+    background: #23C4ED;
+}
+#o{
+    background: #383CC1;
+}
+#p{
+    background: #12B0E8;
+}
+#q{
+    background: #51E1ED;
+}
+#r{
+    background: #207398;
+}
+#s{
+    background: #46B2E0;
+}
+#t{
+    background: #3944F7;
+}
+#u{
+    background: #2827CC;
+}
+#v{
+    background: #2827CC;
+}
+#w{
+    background: #5DA3FA;
+}
+#x{
+    background: #03203C;
+}
+
+
+
+#aa{
+    background: #1FAA59;
+}
+
+#bb{
+    background: #38CC77;
+}
+#cc{
+    background: #02B290;
+}
+#dd{
+    background: #50DBB4;
+}
+#ee{
+    background: #3DBE29;
+}
+#ff{
+    background: #4DD637;
+}
+#gg{
+    background: #1C8D73;
+}
+#hh{
+    background: #66AD47;
+}
+#ii{
+    background: #6AC47E;
+}
+#jj{
+    background: #6EC72D;
+}
+#kk{
+    background: #22CB5C;
+}
+#ll{
+    background: #00D84A;
+}
+
+
+#mm{
+    background: #E8BD0D;
+}
+#nn{
+    background: #EDBF69;
+}
+#oo{
+    background: #F4BE2C;
+}
+#pp{
+    background: #EDC126;
+}
+#qq{
+    background: #E5D68A;
+}
+#rr{
+    background: #DDD101;
+}
+#ss{
+    background: #D9D55B;
+}
+#tt{
+    background: #F7CD2E;
+}
+#uu{
+    background: #AF9D5A;
+}
+#vv{
+    background: #C7C11A;
+}
+#ww{
+    background: #F4CE6A;
+}
+#xx{
+    background: #A77B06;
+}
+
+
+#aaa{
+    background: #8D3DAF;
+}
+
+#bbb{
+    background: #E07C24;
+}
+#ccc{
+    background: #758283;
+}
+#ddd{
+    background: #E03B8B;
+}
+#eee{
+    background: #FF6666;
+}
+#fff{
+    background: #242B2E;
+}
+#ggg{
+    background: #03C6C7;
+}
+#hhh{
+    background: #5A20CB;
+}
+#iii{
+    background: #6A1B4D;
+}
+#jjj{
+    background: #CAD5E2;
+}
+#kkk{
+    background: #35BDD0;
+}
+#lll{
+    background: #0D0D0D;
+}
